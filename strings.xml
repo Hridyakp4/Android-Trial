@@ -1,0 +1,9 @@
+<resources>
+    <string name="MyFirstApplication">My First Application</string>
+    <string name="link1"><a href="https://www.google.com/">Tap here to open Google</a></string>
+    <string name="data_structure">\n Data Structures\n and Algorithms \n</string>
+    <string name="link2"><a href="https://www.google.com/">Tap here to open Google</a></string>
+    <string name="link3"><a href="https://www.google.com/">Tap here to open Google</a></string>
+    <string name="link4"><a href="https://www.google.com/">Tap here to open Google</a></string>
+
+</resources>
